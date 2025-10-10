@@ -11,7 +11,9 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>server-config</module>
+		<module>api-rests</module>
 	</modules>
+
 	<groupId>com.example</groupId>
 	<artifactId>demo-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
