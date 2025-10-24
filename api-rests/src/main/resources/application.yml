@@ -1,0 +1,6 @@
+#application.yml
+spring:
+  application:
+    name: api-rests
+  config:
+    import: "optional:configserver:http://localhost:8888"
